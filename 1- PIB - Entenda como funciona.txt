@@ -1,0 +1,63 @@
+PIB {
+
+    Economia {
+        Ciencia que estuda a utilização dos recursos, já que todos os recursos são escasos.
+        Metodologias que precificam calculam como anda a nossa Economia.
+    }
+
+    PIB (Produto Interno Bruto) {
+        O PIB é o indicador econômico mais importante de qualquer país. Ele representa o valor de todos os bens e 
+        serviços produzidos pela nação e serve como um medidor da atividade econômica.
+
+        O PIB ele mede a geração de riqueza e não o estoque de riqueza. Pois não adianta ter o estoque de riqueza, 
+        porém não conseguir gerar riqueza com a mesma, pois um país se desenvolve econômicamente quando ele passa a produzir mais.
+
+        Cálculo do PIB {
+            PIB = C + I + G + NX
+
+            O IBGE (Entidade responsável pelo cálculo do PIB)
+
+            C = Consumo das familias
+
+            I = Investimento das empresas (Isso vale para investimento dentro do país, mas indifere se é empresa de fora que está realizando)
+
+            G = Gastos do governo (Quando mais o governo gasta mais ele está desenvolvendo econômicamente (Roubo também))
+
+            NX = Exportações liquidas (Exportações - Importações)
+
+            O PIB é calculado em real (R$) e comparado aos anos anteriores em %
+        }
+
+        Metodologia do PIB {
+            Valor Agregado = É o quanto agregamos valor a um bem {
+
+                Trigo vale R$ 1,00
+
+                Trigo moído vale R$ 2,00
+
+                Pão vale R$ 3,00
+
+                O meu produto agregado nesse caso é o pão, pois a materia inicial "trigo" sofreu vários processos para enfim chegar ao seu 
+                estado de consumo, portanto as etapas de colher o "trigo" e moer "trigo" agregaram no produto final que é o "pão", portanto
+                o calculo do PIB é sobre o produto ou valor agregado.
+
+                Trigo R$ 1 + Trigo moído R$ 2,00 + Pão R$ 1,00 = R$ 3,00
+
+                Cenário de dúvida {
+                    No caso da compra de uma farinha de trigo, dependendo de quem comprar ela se pode entrar no calculo do PIB.
+
+                    1. Caso um CPF compre a farinha de trigo, isso significa que ele é um consumidor final que vai consumir a farinha,
+                    portanto ela é o produto agregado nesse cenário. (Isso é filtrado pelo CPF na nota no momento da compra (Exemplo))
+
+                    2. Caso um CNPJ compre a farinha de trigo, isso significa que ele vai usar o material para produção de um bolo ou algo do tipo,
+                    o material produzido que vai virar o meu valor agregado e por fim ele que será calculado no PIB.
+                    Existe caso do CNPJ comprar para consumo próprio isso é filtrado através das CFOP e iformações sobre transações.
+                }
+            }
+        }
+
+        Relevancia do PIB {
+            Produção de riqueza, consegui mensurar o quanto um país está produzindo, quando maior a produção maior a riqueza;
+        }
+    }
+}
