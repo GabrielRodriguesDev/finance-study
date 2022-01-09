@@ -60,4 +60,6 @@ PIB {
             Produção de riqueza, consegui mensurar o quanto um país está produzindo, quando maior a produção maior a riqueza;
         }
     }
+
+    Referencia: https://youtu.be/fKuwQ5sauZw
 }
